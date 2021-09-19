@@ -1,0 +1,24 @@
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Adm-Periodismo\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Adm-Periodismo\source\repos\Escribano, Martín TP°1\Entidades\Entidades\obj\Debug\net5.0\Entidades.pdb
