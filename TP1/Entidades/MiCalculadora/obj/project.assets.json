@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adm-Periodismo\\source\\repos\\Escribano, Martín TP°1\\Entidades\\MiCalculadora\\MiCalculadora.csproj",
+      "projectUniqueName": "C:\\Users\\Adm-Periodismo\\source\\repos\\Escribano, Martín TP°1\\TP1\\Entidades\\MiCalculadora\\MiCalculadora.csproj",
       "projectName": "MiCalculadora",
-      "projectPath": "C:\\Users\\Adm-Periodismo\\source\\repos\\Escribano, Martín TP°1\\Entidades\\MiCalculadora\\MiCalculadora.csproj",
+      "projectPath": "C:\\Users\\Adm-Periodismo\\source\\repos\\Escribano, Martín TP°1\\TP1\\Entidades\\MiCalculadora\\MiCalculadora.csproj",
       "packagesPath": "C:\\Users\\Adm-Periodismo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adm-Periodismo\\source\\repos\\Escribano, Martín TP°1\\Entidades\\MiCalculadora\\obj\\",
+      "outputPath": "C:\\Users\\Adm-Periodismo\\source\\repos\\Escribano, Martín TP°1\\TP1\\Entidades\\MiCalculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adm-Periodismo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Adm-Periodismo\\source\\repos\\Escribano, Martín TP°1\\Entidades\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Adm-Periodismo\\source\\repos\\Escribano, Martín TP°1\\Entidades\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Adm-Periodismo\\source\\repos\\Escribano, Martín TP°1\\TP1\\Entidades\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Adm-Periodismo\\source\\repos\\Escribano, Martín TP°1\\TP1\\Entidades\\Entidades\\Entidades.csproj"
             }
           }
         }
